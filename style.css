@@ -119,7 +119,6 @@ img {
 	}
 	header.masthead {
 		padding:100px 1rem;
-		background:none; /** ""In the LARGEST layout ONLY include an image as a background below the nav menu." "**/
 	}
 	footer.footer {
 		padding:1rem;
@@ -128,7 +127,7 @@ img {
 		width:25%;
 		float:left;
 		padding-bottom:40rem;
-		background: url('http://lorempixel.com/600/400/cats/') no-repeat;  /** ""In the LARGEST layout ONLY include an image as a background below the nav menu." "**/
+		background: url('http://lorempixel.com/600/400/cats/') no-repeat;
 		background-size:cover;
 	}
 	main.content {
@@ -153,8 +152,5 @@ img {
 	img.right{
 		float:none;
 		margin:0.25rem 0 0 0;
-	}
-	img {
-		display:none; /** ""In the LARGEST layout ONLY include an image as a background below the nav menu." "**/
 	}
 }
