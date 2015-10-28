@@ -119,6 +119,7 @@ img {
 	}
 	header.masthead {
 		padding:100px 1rem;
+		background:none;
 	}
 	footer.footer {
 		padding:1rem;
