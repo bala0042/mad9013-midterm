@@ -127,7 +127,7 @@ img {
 	nav.mainnav ul {
 		width:25%;
 		float:left;
-		padding-bottom:40rem;
+		padding-bottom:20rem;
 		background: url('http://lorempixel.com/600/400/cats/') no-repeat;
 		background-size:cover;
 	}
